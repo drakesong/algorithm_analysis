@@ -40,7 +40,7 @@ def problem1():
     # Boolean to determine if the root has been found (accurate to 15 deicmals places)
     different = True
 
-    # Intial x_0 value
+    # Intial x value
     n = 4
 
     # Run Newton's Method until convergence
