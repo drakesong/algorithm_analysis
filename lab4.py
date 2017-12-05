@@ -4,7 +4,7 @@
 
 import numpy as np
 
-
+# Determine the functions according to the problem number
 def f(p, x, y):
     if p == 1:
         return np.power(x,4) - 6 * np.power(x,2) + 8
@@ -19,6 +19,7 @@ def f(p, x, y):
     elif p == 5.2:
         return 3 * y - np.power(x,4)
 
+# First derivative of the functions above
 def fprime(p, x):
     if p == 1:
         return 4 * np.power(x,3) - 12 * x
@@ -29,14 +30,20 @@ def fprime(p, x):
     elif p == 4:
         return 4 * np.power(x,3) + 6 * x
 
+# Newton's Method
 def newton(p, x, y):
     return x - f(p,x,y)/fprime(p,x)
 
-
 def problem1():
     print("Problem 1")
+
+    # Boolean to determine if the root has been found (accurate to 15 deicmals places)
     different = True
+
+    # Intial x_0 value
     n = 4
+
+    # Run Newton's Method until convergence
     while different:
         a = newton(1,n,0)
         print('{0:.15f}'.format(a))
@@ -149,6 +156,7 @@ def problem4():
             n = a
     print("")
 
+# Jacobian Inverse Matrix for using Newton's Method on a system of 2 functions
 def jacobianInverse(x, y):
     mat = np.matrix([[3, -2*y], [4 * np.power(x,3), 2*x]])
     det = 6*x + 8 * np.power(x,3) * y
@@ -177,7 +185,6 @@ problem1()
 problem2()
 problem3()
 problem4()
-
 problem5(2,10)
 print()
 print()
