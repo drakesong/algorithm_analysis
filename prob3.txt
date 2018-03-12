@@ -1,0 +1,1467 @@
+Problem 3
+
+RESULTS
+
+Iteration: 71
+Tolerance: 0.005
+Error: 0.004955462695119361
+Eigenvector:
+[[ 1.        ]
+ [ 0.00951227]
+ [ 0.48833442]]
+Eigenvalue: 100.96036254
+
+Iteration: 108
+Tolerance: 0.05
+Error: 0.04861333630434217
+Eigenvector:
+[[-0.15590596]
+ [ 0.        ]
+ [-0.9877719 ]]
+Eigenvalue: [[ 98.04861334]]
+
+
+ACTUAL EIGENVALUES AND EIGENVECTORS
+
+(array([ 100.,   98.,   99.]), 
+matrix([[ 1.        ,  0.        , -0.70708875],
+        [ 0.        ,  0.        ,  0.00714231],
+        [ 0.        ,  1.        ,  0.70708875]]))
+
+
+EIGENVALUE 1
+
+Iteration: 1
+Error: 0.5026130552783914
+Eigenvector:
+[[ 1.        ]
+ [ 0.49748744]
+ [ 0.98994975]]
+Eigenvalue: 199.0
+
+Iteration: 2
+Error: 0.16779376525046089
+Eigenvector:
+[[ 1.        ]
+ [ 0.32998889]
+ [ 0.98000067]]
+Eigenvalue: 149.251256281
+
+Iteration: 3
+Error: 0.08432220160388999
+Eigenvector:
+[[ 1.        ]
+ [ 0.24624384]
+ [ 0.97015175]]
+Eigenvalue: 132.668900037
+
+Iteration: 4
+Error: 0.05118087318323708
+Eigenvector:
+[[ 1.        ]
+ [ 0.1960002 ]
+ [ 0.96040198]]
+Eigenvalue: 124.37814064
+
+Iteration: 5
+Error: 0.03485586247368152
+Eigenvector:
+[[ 1.        ]
+ [ 0.16250726]
+ [ 0.95075035]]
+Eigenvalue: 119.404019958
+
+Iteration: 6
+Error: 0.02575864213162244
+Eigenvector:
+[[ 1.        ]
+ [ 0.13858614]
+ [ 0.94119588]]
+Eigenvalue: 116.088218609
+
+Iteration: 7
+Error: 0.020279474531218374
+Eigenvector:
+[[ 1.        ]
+ [ 0.12064742]
+ [ 0.93173759]]
+Eigenvalue: 113.72002828
+
+Iteration: 8
+Error: 0.016801272741188325
+Eigenvector:
+[[ 1.        ]
+ [ 0.10669696]
+ [ 0.9223745 ]]
+Eigenvalue: 111.944094811
+
+Iteration: 9
+Error: 0.014506119574711592
+Eigenvector:
+[[ 1.        ]
+ [ 0.09553828]
+ [ 0.91310566]]
+Eigenvalue: 110.562999221
+
+Iteration: 10
+Error: 0.012942809021737518
+Eigenvector:
+[[ 1.        ]
+ [ 0.08640999]
+ [ 0.90393011]]
+Eigenvalue: 109.458290118
+
+Iteration: 11
+Error: 0.011846854043507604
+Eigenvector:
+[[ 1.        ]
+ [ 0.07880449]
+ [ 0.89484692]]
+Eigenvalue: 108.554589338
+
+Iteration: 12
+Error: 0.011056661461184336
+Eigenvector:
+[[ 1.        ]
+ [ 0.07237037]
+ [ 0.88585516]]
+Eigenvalue: 107.801644773
+
+Iteration: 13
+Error: 0.010470623341657019
+Eigenvector:
+[[ 1.        ]
+ [ 0.06685661]
+ [ 0.8769539 ]]
+Eigenvalue: 107.164666496
+
+Iteration: 14
+Error: 0.010023456697542493
+Eigenvector:
+[[ 1.        ]
+ [ 0.06207915]
+ [ 0.86814223]]
+Eigenvalue: 106.618804559
+
+Iteration: 15
+Error: 0.009672453185188746
+Eigenvector:
+[[ 1.        ]
+ [ 0.05789992]
+ [ 0.85941925]]
+Eigenvalue: 106.145835662
+
+Iteration: 16
+Error: 0.009389207328561147
+Eigenvector:
+[[ 1.        ]
+ [ 0.05421336]
+ [ 0.85078406]]
+Eigenvalue: 105.732092331
+
+Iteration: 17
+Error: 0.009154524402950349
+Eigenvector:
+[[ 1.        ]
+ [ 0.05093736]
+ [ 0.84223578]]
+Eigenvalue: 105.367122964
+
+Iteration: 18
+Error: 0.008955231495924908
+Eigenvector:
+[[ 1.        ]
+ [ 0.04800708]
+ [ 0.83377353]]
+Eigenvalue: 105.042798536
+
+Iteration: 19
+Error: 0.008782150936752994
+Eigenvector:
+[[ 1.        ]
+ [ 0.04537068]
+ [ 0.82539644]]
+Eigenvalue: 104.752701394
+
+Iteration: 20
+Error: 0.008628794452770958
+Eigenvector:
+[[ 1.        ]
+ [ 0.04298617]
+ [ 0.81710366]]
+Eigenvalue: 104.491697415
+
+Iteration: 21
+Error: 0.008490510147287585
+Eigenvector:
+[[ 1.        ]
+ [ 0.04081919]
+ [ 0.80889434]]
+Eigenvalue: 104.2556304
+
+Iteration: 22
+Error: 0.008363917620504292
+Eigenvector:
+[[ 1.        ]
+ [ 0.03884138]
+ [ 0.80076763]]
+Eigenvalue: 104.041099823
+
+Iteration: 23
+Error: 0.008246528798218654
+Eigenvector:
+[[ 1.        ]
+ [ 0.03702909]
+ [ 0.79272271]]
+Eigenvalue: 103.845296553
+
+Iteration: 24
+Error: 0.008136489999281597
+Eigenvector:
+[[ 1.        ]
+ [ 0.03536245]
+ [ 0.78475874]]
+Eigenvalue: 103.665879644
+
+Iteration: 25
+Error: 0.008032404180107642
+Eigenvector:
+[[ 1.        ]
+ [ 0.03382467]
+ [ 0.77687491]]
+Eigenvalue: 103.500882701
+
+Iteration: 26
+Error: 0.007933206883052981
+Eigenvector:
+[[ 1.        ]
+ [ 0.03240141]
+ [ 0.76907042]]
+Eigenvalue: 103.348641851
+
+Iteration: 27
+Error: 0.007838078610103825
+Eigenvector:
+[[ 1.        ]
+ [ 0.03108042]
+ [ 0.76134446]]
+Eigenvalue: 103.207739718
+
+Iteration: 28
+Error: 0.007746382205605212
+Eigenvector:
+[[ 1.        ]
+ [ 0.02985111]
+ [ 0.75369624]]
+Eigenvalue: 103.076961407
+
+Iteration: 29
+Error: 0.007657617613417564
+Eigenvector:
+[[ 1.        ]
+ [ 0.02870431]
+ [ 0.74612498]]
+Eigenvalue: 102.955259596
+
+Iteration: 30
+Error: 0.00757138884221678
+Eigenvector:
+[[ 1.        ]
+ [ 0.02763204]
+ [ 0.73862991]]
+Eigenvalue: 102.841726602
+
+Iteration: 31
+Error: 0.007487379602614955
+Eigenvector:
+[[ 1.        ]
+ [ 0.02662731]
+ [ 0.73121024]]
+Eigenvalue: 102.735571862
+
+Iteration: 32
+Error: 0.007405335168491414
+Eigenvector:
+[[ 1.        ]
+ [ 0.02568398]
+ [ 0.72386524]]
+Eigenvalue: 102.636103635
+
+Iteration: 33
+Error: 0.007325048750301289
+Eigenvector:
+[[ 1.        ]
+ [ 0.02479663]
+ [ 0.71659413]]
+Eigenvalue: 102.542714021
+
+Iteration: 34
+Error: 0.007246351170211554
+Eigenvector:
+[[ 1.        ]
+ [ 0.02396047]
+ [ 0.70939619]]
+Eigenvalue: 102.454866643
+
+Iteration: 35
+Error: 0.007169102975356933
+Eigenvector:
+[[ 1.        ]
+ [ 0.02317122]
+ [ 0.70227066]]
+Eigenvalue: 102.372086418
+
+Iteration: 36
+Error: 0.007093188366936602
+Eigenvector:
+[[ 1.        ]
+ [ 0.02242509]
+ [ 0.69521682]]
+Eigenvalue: 102.293951053
+
+Iteration: 37
+Error: 0.007018510492789249
+Eigenvector:
+[[ 1.        ]
+ [ 0.02171867]
+ [ 0.68823396]]
+Eigenvalue: 102.220083904
+
+Iteration: 38
+Error: 0.0069449877717719455
+Eigenvector:
+[[ 1.        ]
+ [ 0.0210489 ]
+ [ 0.68132134]]
+Eigenvalue: 102.150147976
+
+Iteration: 39
+Error: 0.006872551004743894
+Eigenvector:
+[[ 1.        ]
+ [ 0.02041303]
+ [ 0.67447827]]
+Eigenvalue: 102.083840835
+
+Iteration: 40
+Error: 0.006801141089490572
+Eigenvector:
+[[ 1.        ]
+ [ 0.01980859]
+ [ 0.66770404]]
+Eigenvalue: 102.020890289
+
+Iteration: 41
+Error: 0.006730707202458438
+Eigenvector:
+[[ 1.        ]
+ [ 0.01923333]
+ [ 0.66099796]]
+Eigenvalue: 101.961050703
+
+Iteration: 42
+Error: 0.006661205343641413
+Eigenvector:
+[[ 1.        ]
+ [ 0.01868521]
+ [ 0.65435934]]
+Eigenvalue: 101.904099833
+
+Iteration: 43
+Error: 0.006592597165713171
+Eigenvector:
+[[ 1.        ]
+ [ 0.01816239]
+ [ 0.64778751]]
+Eigenvalue: 101.849836108
+
+Iteration: 44
+Error: 0.006524849026951598
+Eigenvector:
+[[ 1.        ]
+ [ 0.01766317]
+ [ 0.64128179]]
+Eigenvalue: 101.798076283
+
+Iteration: 45
+Error: 0.0064579312213475055
+Eigenvector:
+[[ 1.        ]
+ [ 0.01718601]
+ [ 0.63484151]]
+Eigenvalue: 101.748653398
+
+Iteration: 46
+Error: 0.006391817349754903
+Eigenvector:
+[[ 1.        ]
+ [ 0.01672951]
+ [ 0.62846601]]
+Eigenvalue: 101.701415013
+
+Iteration: 47
+Error: 0.006326483803883434
+Eigenvector:
+[[ 1.        ]
+ [ 0.01629238]
+ [ 0.62215465]]
+Eigenvalue: 101.656221659
+
+Iteration: 48
+Error: 0.006261909341021938
+Eigenvector:
+[[ 1.        ]
+ [ 0.01587343]
+ [ 0.61590677]]
+Eigenvalue: 101.612945489
+
+Iteration: 49
+Error: 0.006198074732059795
+Eigenvector:
+[[ 1.        ]
+ [ 0.01547156]
+ [ 0.60972174]]
+Eigenvalue: 101.571469095
+
+Iteration: 50
+Error: 0.0061349624689851666
+Eigenvector:
+[[ 1.        ]
+ [ 0.01508578]
+ [ 0.60359892]]
+Eigenvalue: 101.531684456
+
+Iteration: 51
+Error: 0.006072556520861922
+Eigenvector:
+[[ 1.        ]
+ [ 0.01471515]
+ [ 0.59753768]]
+Eigenvalue: 101.493492026
+
+Iteration: 52
+Error: 0.006010842129483868
+Eigenvector:
+[[ 1.        ]
+ [ 0.01435882]
+ [ 0.59153741]]
+Eigenvalue: 101.456799915
+
+Iteration: 53
+Error: 0.005949805637630295
+Eigenvector:
+[[ 1.        ]
+ [ 0.01401599]
+ [ 0.58559749]]
+Eigenvalue: 101.421523168
+
+Iteration: 54
+Error: 0.005889434344218605
+Eigenvector:
+[[ 1.        ]
+ [ 0.01368593]
+ [ 0.57971731]]
+Eigenvalue: 101.387583121
+
+Iteration: 55
+Error: 0.005829716381725206
+Eigenvector:
+[[ 1.        ]
+ [ 0.01336795]
+ [ 0.57389627]]
+Eigenvalue: 101.354906831
+
+Iteration: 56
+Error: 0.005770640612110295
+Eigenvector:
+[[ 1.        ]
+ [ 0.01306141]
+ [ 0.56813378]]
+Eigenvalue: 101.323426566
+
+Iteration: 57
+Error: 0.005712196538174548
+Eigenvector:
+[[ 1.        ]
+ [ 0.01276572]
+ [ 0.56242924]]
+Eigenvalue: 101.293079344
+
+Iteration: 58
+Error: 0.005654374227824201
+Eigenvector:
+[[ 1.        ]
+ [ 0.01248034]
+ [ 0.55678207]]
+Eigenvalue: 101.26380653
+
+Iteration: 59
+Error: 0.005597164249170957
+Eigenvector:
+[[ 1.        ]
+ [ 0.01220474]
+ [ 0.5511917 ]]
+Eigenvalue: 101.235553459
+
+Iteration: 60
+Error: 0.005540557614756475
+Eigenvector:
+[[ 1.        ]
+ [ 0.01193844]
+ [ 0.54565754]]
+Eigenvalue: 101.208269114
+
+Iteration: 61
+Error: 0.005484545733478713
+Eigenvector:
+[[ 1.        ]
+ [ 0.011681  ]
+ [ 0.54017904]]
+Eigenvalue: 101.18190582
+
+Iteration: 62
+Error: 0.0054291203690448875
+Eigenvector:
+[[ 1.        ]
+ [ 0.01143199]
+ [ 0.53475564]]
+Eigenvalue: 101.156418978
+
+Iteration: 63
+Error: 0.005374273603966275
+Eigenvector:
+[[ 1.        ]
+ [ 0.01119101]
+ [ 0.52938677]]
+Eigenvalue: 101.131766822
+
+Iteration: 64
+Error: 0.005319997808271575
+Eigenvector:
+[[ 1.        ]
+ [ 0.0109577 ]
+ [ 0.52407189]]
+Eigenvalue: 101.107910194
+
+Iteration: 65
+Error: 0.005266285612253267
+Eigenvector:
+[[ 1.        ]
+ [ 0.0107317 ]
+ [ 0.51881046]]
+Eigenvalue: 101.084812345
+
+Iteration: 66
+Error: 0.0052131298826618615
+Eigenvector:
+[[ 1.        ]
+ [ 0.0105127 ]
+ [ 0.51360193]]
+Eigenvalue: 101.062438755
+
+Iteration: 67
+Error: 0.005160523701863632
+Eigenvector:
+[[ 1.        ]
+ [ 0.01030037]
+ [ 0.50844577]]
+Eigenvalue: 101.040756962
+
+Iteration: 68
+Error: 0.005108460349544538
+Eigenvector:
+[[ 1.        ]
+ [ 0.01009443]
+ [ 0.50334147]]
+Eigenvalue: 101.019736415
+
+Iteration: 69
+Error: 0.005056933286613901
+Eigenvector:
+[[ 1.        ]
+ [ 0.0098946 ]
+ [ 0.49828848]]
+Eigenvalue: 100.999348332
+
+Iteration: 70
+Error: 0.005005936141004421
+Eigenvector:
+[[ 1.        ]
+ [ 0.00970063]
+ [ 0.49328631]]
+Eigenvalue: 100.979565576
+
+Iteration: 71
+Error: 0.004955462695119361
+Eigenvector:
+[[ 1.        ]
+ [ 0.00951227]
+ [ 0.48833442]]
+Eigenvalue: 100.96036254
+
+
+EIGENVALUE 2
+
+Iteration: 1
+Error: 0.9829072315559131
+Eigenvector:
+[[-0.70103753]
+ [ 0.        ]
+ [-0.71312438]]
+Eigenvalue: [[ 98.98290723]]
+
+Iteration: 2
+Error: 0.9658244479344802
+Eigenvector:
+[[-0.69491886]
+ [ 0.        ]
+ [-0.71908816]]
+Eigenvalue: [[ 98.96582445]]
+
+Iteration: 3
+Error: 0.9487616106412986
+Eigenvector:
+[[-0.68875308]
+ [ 0.        ]
+ [-0.724996  ]]
+Eigenvalue: [[ 98.94876161]]
+
+Iteration: 4
+Error: 0.9317286346634432
+Eigenvector:
+[[-0.68254254]
+ [ 0.        ]
+ [-0.73084587]]
+Eigenvalue: [[ 98.93172863]]
+
+Iteration: 5
+Error: 0.9147353654979895
+Eigenvector:
+[[-0.67628964]
+ [ 0.        ]
+ [-0.73663581]]
+Eigenvalue: [[ 98.91473537]]
+
+Iteration: 6
+Error: 0.8977915565238845
+Eigenvector:
+[[-0.66999685]
+ [ 0.        ]
+ [-0.74236394]]
+Eigenvalue: [[ 98.89779156]]
+
+Iteration: 7
+Error: 0.880906846826349
+Eigenvector:
+[[-0.66366665]
+ [ 0.        ]
+ [-0.74802846]]
+Eigenvalue: [[ 98.88090685]]
+
+Iteration: 8
+Error: 0.8640907395797797
+Eigenvector:
+[[-0.65730158]
+ [ 0.        ]
+ [-0.75362765]]
+Eigenvalue: [[ 98.86409074]]
+
+Iteration: 9
+Error: 0.847352581090945
+Eigenvector:
+[[-0.65090421]
+ [ 0.        ]
+ [-0.75915987]]
+Eigenvalue: [[ 98.84735258]]
+
+Iteration: 10
+Error: 0.8307015405976585
+Eigenvector:
+[[-0.64447713]
+ [ 0.        ]
+ [-0.76462359]]
+Eigenvalue: [[ 98.83070154]]
+
+Iteration: 11
+Error: 0.814146590913623
+Eigenvector:
+[[-0.63802296]
+ [ 0.        ]
+ [-0.77001734]]
+Eigenvalue: [[ 98.81414659]]
+
+Iteration: 12
+Error: 0.7976964900004475
+Eigenvector:
+[[-0.63154433]
+ [ 0.        ]
+ [-0.77533977]]
+Eigenvalue: [[ 98.79769649]]
+
+Iteration: 13
+Error: 0.7813597635445717
+Eigenvector:
+[[-0.6250439]
+ [ 0.       ]
+ [-0.7805896]]
+Eigenvalue: [[ 98.78135976]]
+
+Iteration: 14
+Error: 0.7651446886045505
+Eigenvector:
+[[-0.61852433]
+ [ 0.        ]
+ [-0.78576565]]
+Eigenvalue: [[ 98.76514469]]
+
+Iteration: 15
+Error: 0.7490592783888985
+Eigenvector:
+[[-0.61198827]
+ [ 0.        ]
+ [-0.79086684]]
+Eigenvalue: [[ 98.74905928]]
+
+Iteration: 16
+Error: 0.7331112682151115
+Eigenvector:
+[[-0.60543838]
+ [ 0.        ]
+ [-0.79589218]]
+Eigenvalue: [[ 98.73311127]]
+
+Iteration: 17
+Error: 0.7173081026912769
+Eigenvector:
+[[-0.59887733]
+ [ 0.        ]
+ [-0.80084078]]
+Eigenvalue: [[ 98.7173081]]
+
+Iteration: 18
+Error: 0.701656924153454
+Eigenvector:
+[[-0.59230774]
+ [ 0.        ]
+ [-0.80571182]]
+Eigenvalue: [[ 98.70165692]]
+
+Iteration: 19
+Error: 0.6861645623832544
+Eigenvector:
+[[-0.58573226]
+ [ 0.        ]
+ [-0.81050461]]
+Eigenvalue: [[ 98.68616456]]
+
+Iteration: 20
+Error: 0.6708375256200441
+Eigenvector:
+[[-0.57915349]
+ [ 0.        ]
+ [-0.81521852]]
+Eigenvalue: [[ 98.67083753]]
+
+Iteration: 21
+Error: 0.6556819928752731
+Eigenvector:
+[[-0.57257401]
+ [ 0.        ]
+ [-0.81985304]]
+Eigenvalue: [[ 98.65568199]]
+
+Iteration: 22
+Error: 0.6407038075469131
+Eigenvector:
+[[-0.56599638]
+ [ 0.        ]
+ [-0.82440772]]
+Eigenvalue: [[ 98.64070381]]
+
+Iteration: 23
+Error: 0.6259084723238715
+Eigenvector:
+[[-0.55942313]
+ [ 0.        ]
+ [-0.82888224]]
+Eigenvalue: [[ 98.62590847]]
+
+Iteration: 24
+Error: 0.6113011453633419
+Eigenvector:
+[[-0.55285674]
+ [ 0.        ]
+ [-0.83327632]]
+Eigenvalue: [[ 98.61130115]]
+
+Iteration: 25
+Error: 0.5968866377167217
+Eigenvector:
+[[-0.54629966]
+ [ 0.        ]
+ [-0.8375898 ]]
+Eigenvalue: [[ 98.59688664]]
+
+Iteration: 26
+Error: 0.5826694119713522
+Eigenvector:
+[[-0.5397543]
+ [ 0.       ]
+ [-0.8418226]]
+Eigenvalue: [[ 98.58266941]]
+
+Iteration: 27
+Error: 0.5686535820730398
+Eigenvector:
+[[-0.53322302]
+ [ 0.        ]
+ [-0.84597471]]
+Eigenvalue: [[ 98.56865358]]
+
+Iteration: 28
+Error: 0.5548429142830713
+Eigenvector:
+[[-0.52670813]
+ [ 0.        ]
+ [-0.8500462 ]]
+Eigenvalue: [[ 98.55484291]]
+
+Iteration: 29
+Error: 0.5412408292245487
+Eigenvector:
+[[-0.52021189]
+ [ 0.        ]
+ [-0.85403723]]
+Eigenvalue: [[ 98.54124083]]
+
+Iteration: 30
+Error: 0.5278504049636297
+Eigenvector:
+[[-0.51373651]
+ [ 0.        ]
+ [-0.85794802]]
+Eigenvalue: [[ 98.5278504]]
+
+Iteration: 31
+Error: 0.514674381070165
+Eigenvector:
+[[-0.50728413]
+ [ 0.        ]
+ [-0.86177886]]
+Eigenvalue: [[ 98.51467438]]
+
+Iteration: 32
+Error: 0.5017151635983623
+Eigenvector:
+[[-0.50085685]
+ [ 0.        ]
+ [-0.86553014]]
+Eigenvalue: [[ 98.50171516]]
+
+Iteration: 33
+Error: 0.48897483092548555
+Eigenvector:
+[[-0.49445669]
+ [ 0.        ]
+ [-0.86920227]]
+Eigenvalue: [[ 98.48897483]]
+
+Iteration: 34
+Error: 0.4764551403845161
+Eigenvector:
+[[-0.48808562]
+ [ 0.        ]
+ [-0.87279575]]
+Eigenvalue: [[ 98.47645514]]
+
+Iteration: 35
+Error: 0.46415753562648376
+Eigenvector:
+[[-0.48174554]
+ [ 0.        ]
+ [-0.87631115]]
+Eigenvalue: [[ 98.46415754]]
+
+Iteration: 36
+Error: 0.45208315464535076
+Eigenvector:
+[[-0.4754383 ]
+ [ 0.        ]
+ [-0.87974907]]
+Eigenvalue: [[ 98.45208315]]
+
+Iteration: 37
+Error: 0.44023283840078875
+Eigenvector:
+[[-0.46916566]
+ [ 0.        ]
+ [-0.88311017]]
+Eigenvalue: [[ 98.44023284]]
+
+Iteration: 38
+Error: 0.42860713997153255
+Eigenvector:
+[[-0.46292934]
+ [ 0.        ]
+ [-0.88639519]]
+Eigenvalue: [[ 98.42860714]]
+
+Iteration: 39
+Error: 0.41720633417521924
+Eigenvector:
+[[-0.45673096]
+ [ 0.        ]
+ [-0.88960487]]
+Eigenvalue: [[ 98.41720633]]
+
+Iteration: 40
+Error: 0.406030427590224
+Eigenvector:
+[[-0.4505721 ]
+ [ 0.        ]
+ [-0.89274004]]
+Eigenvalue: [[ 98.40603043]]
+
+Iteration: 41
+Error: 0.39507916891724904
+Eigenvector:
+[[-0.44445425]
+ [ 0.        ]
+ [-0.89580155]]
+Eigenvalue: [[ 98.39507917]]
+
+Iteration: 42
+Error: 0.3843520596197294
+Eigenvector:
+[[-0.43837887]
+ [ 0.        ]
+ [-0.89879028]]
+Eigenvalue: [[ 98.38435206]]
+
+Iteration: 43
+Error: 0.373848364785033
+Eigenvector:
+[[-0.43234729]
+ [ 0.        ]
+ [-0.90170717]]
+Eigenvalue: [[ 98.37384836]]
+
+Iteration: 44
+Error: 0.36356712414990966
+Eigenvector:
+[[-0.42636084]
+ [ 0.        ]
+ [-0.90455317]]
+Eigenvalue: [[ 98.36356712]]
+
+Iteration: 45
+Error: 0.35350716323715403
+Eigenvector:
+[[-0.42042072]
+ [ 0.        ]
+ [-0.90732928]]
+Eigenvalue: [[ 98.35350716]]
+
+Iteration: 46
+Error: 0.3436671045528641
+Eigenvector:
+[[-0.41452811]
+ [ 0.        ]
+ [-0.91003651]]
+Eigenvalue: [[ 98.3436671]]
+
+Iteration: 47
+Error: 0.3340453787966311
+Eigenvector:
+[[-0.40868409]
+ [ 0.        ]
+ [-0.91267591]]
+Eigenvalue: [[ 98.33404538]]
+
+Iteration: 48
+Error: 0.32464023603937164
+Eigenvector:
+[[-0.40288971]
+ [ 0.        ]
+ [-0.91524854]]
+Eigenvalue: [[ 98.32464024]]
+
+Iteration: 49
+Error: 0.3154497568291106
+Eigenvector:
+[[-0.39714592]
+ [ 0.        ]
+ [-0.91775548]]
+Eigenvalue: [[ 98.31544976]]
+
+Iteration: 50
+Error: 0.3064718631841288
+Eigenvector:
+[[-0.39145361]
+ [ 0.        ]
+ [-0.92019784]]
+Eigenvalue: [[ 98.30647186]]
+
+Iteration: 51
+Error: 0.2977043294404069
+Eigenvector:
+[[-0.38581364]
+ [ 0.        ]
+ [-0.92257674]]
+Eigenvalue: [[ 98.29770433]]
+
+Iteration: 52
+Error: 0.2891447929197426
+Eigenvector:
+[[-0.38022677]
+ [ 0.        ]
+ [-0.92489329]]
+Eigenvalue: [[ 98.28914479]]
+
+Iteration: 53
+Error: 0.2807907643913694
+Eigenvector:
+[[-0.37469372]
+ [ 0.        ]
+ [-0.92714865]]
+Eigenvalue: [[ 98.28079076]]
+
+Iteration: 54
+Error: 0.27263963829943805
+Eigenvector:
+[[-0.36921514]
+ [ 0.        ]
+ [-0.92934395]]
+Eigenvalue: [[ 98.27263964]]
+
+Iteration: 55
+Error: 0.2646887027353131
+Eigenvector:
+[[-0.36379163]
+ [ 0.        ]
+ [-0.93148035]]
+Eigenvalue: [[ 98.2646887]]
+
+Iteration: 56
+Error: 0.25693514913341176
+Eigenvector:
+[[-0.35842374]
+ [ 0.        ]
+ [-0.93355901]]
+Eigenvalue: [[ 98.25693515]]
+
+Iteration: 57
+Error: 0.24937608167415704
+Eigenvector:
+[[-0.35311194]
+ [ 0.        ]
+ [-0.93558108]]
+Eigenvalue: [[ 98.24937608]]
+
+Iteration: 58
+Error: 0.24200852637954995
+Eigenvector:
+[[-0.34785667]
+ [ 0.        ]
+ [-0.93754773]]
+Eigenvalue: [[ 98.24200853]]
+
+Iteration: 59
+Error: 0.2348294398886992
+Eigenvector:
+[[-0.34265831]
+ [ 0.        ]
+ [-0.9394601 ]]
+Eigenvalue: [[ 98.23482944]]
+
+Iteration: 60
+Error: 0.22783571790458268
+Eigenvector:
+[[-0.3375172 ]
+ [ 0.        ]
+ [-0.94131936]]
+Eigenvalue: [[ 98.22783572]]
+
+Iteration: 61
+Error: 0.2210242033039549
+Eigenvector:
+[[-0.3324336 ]
+ [ 0.        ]
+ [-0.94312666]]
+Eigenvalue: [[ 98.2210242]]
+
+Iteration: 62
+Error: 0.21439169390545487
+Eigenvector:
+[[-0.32740777]
+ [ 0.        ]
+ [-0.94488314]]
+Eigenvalue: [[ 98.21439169]]
+
+Iteration: 63
+Error: 0.20793494989273142
+Eigenvector:
+[[-0.32243988]
+ [ 0.        ]
+ [-0.94658995]]
+Eigenvalue: [[ 98.20793495]]
+
+Iteration: 64
+Error: 0.2016507008904398
+Eigenvector:
+[[-0.31753008]
+ [ 0.        ]
+ [-0.9482482 ]]
+Eigenvalue: [[ 98.2016507]]
+
+Iteration: 65
+Error: 0.19553565269411877
+Eigenvector:
+[[-0.31267847]
+ [ 0.        ]
+ [-0.94985903]]
+Eigenvalue: [[ 98.19553565]]
+
+Iteration: 66
+Error: 0.18958649365458768
+Eigenvector:
+[[-0.30788512]
+ [ 0.        ]
+ [-0.95142354]]
+Eigenvalue: [[ 98.18958649]]
+
+Iteration: 67
+Error: 0.18379990072068608
+Eigenvector:
+[[-0.30315005]
+ [ 0.        ]
+ [-0.95294284]]
+Eigenvalue: [[ 98.1837999]]
+
+Iteration: 68
+Error: 0.17817254514410763
+Eigenvector:
+[[-0.29847324]
+ [ 0.        ]
+ [-0.954418  ]]
+Eigenvalue: [[ 98.17817255]]
+
+Iteration: 69
+Error: 0.1727010978519985
+Eigenvector:
+[[-0.29385464]
+ [ 0.        ]
+ [-0.95585012]]
+Eigenvalue: [[ 98.1727011]]
+
+Iteration: 70
+Error: 0.16738223449296186
+Eigenvector:
+[[-0.28929417]
+ [ 0.        ]
+ [-0.95724024]]
+Eigenvalue: [[ 98.16738223]]
+
+Iteration: 71
+Error: 0.1622126401648103
+Eigenvector:
+[[-0.28479171]
+ [ 0.        ]
+ [-0.95858942]]
+Eigenvalue: [[ 98.16221264]]
+
+Iteration: 72
+Error: 0.1571890138302905
+Eigenvector:
+[[-0.28034712]
+ [ 0.        ]
+ [-0.95989869]]
+Eigenvalue: [[ 98.15718901]]
+
+Iteration: 73
+Error: 0.15230807243140987
+Eigenvector:
+[[-0.27596021]
+ [ 0.        ]
+ [-0.96116906]]
+Eigenvalue: [[ 98.15230807]]
+
+Iteration: 74
+Error: 0.14756655470934277
+Eigenvector:
+[[-0.27163077]
+ [ 0.        ]
+ [-0.96240154]]
+Eigenvalue: [[ 98.14756655]]
+
+Iteration: 75
+Error: 0.14296122474077322
+Eigenvector:
+[[-0.26735858]
+ [ 0.        ]
+ [-0.96359711]]
+Eigenvalue: [[ 98.14296122]]
+
+Iteration: 76
+Error: 0.13848887520015296
+Eigenvector:
+[[-0.26314338]
+ [ 0.        ]
+ [-0.96475674]]
+Eigenvalue: [[ 98.13848888]]
+
+Iteration: 77
+Error: 0.13414633035796442
+Eigenvector:
+[[-0.25898487]
+ [ 0.        ]
+ [-0.96588138]]
+Eigenvalue: [[ 98.13414633]]
+
+Iteration: 78
+Error: 0.12993044882490778
+Eigenvector:
+[[-0.25488277]
+ [ 0.        ]
+ [-0.96697196]]
+Eigenvalue: [[ 98.12993045]]
+
+Iteration: 79
+Error: 0.1258381260535657
+Eigenvector:
+[[-0.25083673]
+ [ 0.        ]
+ [-0.96802941]]
+Eigenvalue: [[ 98.12583813]]
+
+Iteration: 80
+Error: 0.12186629660681092
+Eigenvector:
+[[-0.24684641]
+ [ 0.        ]
+ [-0.96905462]]
+Eigenvalue: [[ 98.1218663]]
+
+Iteration: 81
+Error: 0.11801193620399886
+Eigenvector:
+[[-0.24291144]
+ [ 0.        ]
+ [-0.97004847]]
+Eigenvalue: [[ 98.11801194]]
+
+Iteration: 82
+Error: 0.11427206355573105
+Eigenvector:
+[[-0.23903145]
+ [ 0.        ]
+ [-0.97101183]]
+Eigenvalue: [[ 98.11427206]]
+
+Iteration: 83
+Error: 0.11064374199696658
+Eigenvector:
+[[-0.23520602]
+ [ 0.        ]
+ [-0.97194554]]
+Eigenvalue: [[ 98.11064374]]
+
+Iteration: 84
+Error: 0.10712408092915382
+Eigenvector:
+[[-0.23143474]
+ [ 0.        ]
+ [-0.97285043]]
+Eigenvalue: [[ 98.10712408]]
+
+Iteration: 85
+Error: 0.10371023708123062
+Eigenvector:
+[[-0.22771719]
+ [ 0.        ]
+ [-0.97372731]]
+Eigenvalue: [[ 98.10371024]]
+
+Iteration: 86
+Error: 0.10039941559958265
+Eigenvector:
+[[-0.22405291]
+ [ 0.        ]
+ [-0.97457698]]
+Eigenvalue: [[ 98.10039942]]
+
+Iteration: 87
+Error: 0.09718887097648121
+Eigenvector:
+[[-0.22044146]
+ [ 0.        ]
+ [-0.97540021]]
+Eigenvalue: [[ 98.09718887]]
+
+Iteration: 88
+Error: 0.09407590782649322
+Eigenvector:
+[[-0.21688235]
+ [ 0.        ]
+ [-0.97619775]]
+Eigenvalue: [[ 98.09407591]]
+
+Iteration: 89
+Error: 0.09105788151998695
+Eigenvector:
+[[-0.21337512]
+ [ 0.        ]
+ [-0.97697035]]
+Eigenvalue: [[ 98.09105788]]
+
+Iteration: 90
+Error: 0.08813219868277145
+Eigenvector:
+[[-0.20991927]
+ [ 0.        ]
+ [-0.97771872]]
+Eigenvalue: [[ 98.0881322]]
+
+Iteration: 91
+Error: 0.08529631757001255
+Eigenvector:
+[[-0.20651431]
+ [ 0.        ]
+ [-0.97844358]]
+Eigenvalue: [[ 98.08529632]]
+
+Iteration: 92
+Error: 0.08254774832360567
+Eigenvector:
+[[-0.20315973]
+ [ 0.        ]
+ [-0.97914561]]
+Eigenvalue: [[ 98.08254775]]
+
+Iteration: 93
+Error: 0.07988405311985503
+Eigenvector:
+[[-0.19985501]
+ [ 0.        ]
+ [-0.97982548]]
+Eigenvalue: [[ 98.07988405]]
+
+Iteration: 94
+Error: 0.07730284621618466
+Eigenvector:
+[[-0.19659965]
+ [ 0.        ]
+ [-0.98048385]]
+Eigenvalue: [[ 98.07730285]]
+
+Iteration: 95
+Error: 0.07480179390353214
+Eigenvector:
+[[-0.19339312]
+ [ 0.        ]
+ [-0.98112135]]
+Eigenvalue: [[ 98.07480179]]
+
+Iteration: 96
+Error: 0.07237861437170068
+Eigenvector:
+[[-0.19023487]
+ [ 0.        ]
+ [-0.98173861]]
+Eigenvalue: [[ 98.07237861]]
+
+Iteration: 97
+Error: 0.07003107749467574
+Eigenvector:
+[[-0.18712439]
+ [ 0.        ]
+ [-0.98233623]]
+Eigenvalue: [[ 98.07003108]]
+
+Iteration: 98
+Error: 0.06775700454186051
+Eigenvector:
+[[-0.18406114]
+ [ 0.        ]
+ [-0.9829148 ]]
+Eigenvalue: [[ 98.067757]]
+
+Iteration: 99
+Error: 0.06555426782159657
+Eigenvector:
+[[-0.18104456]
+ [ 0.        ]
+ [-0.98347489]]
+Eigenvalue: [[ 98.06555427]]
+
+Iteration: 100
+Error: 0.06342079026282477
+Eigenvector:
+[[-0.17807413]
+ [ 0.        ]
+ [-0.98401708]]
+Eigenvalue: [[ 98.06342079]]
+
+Iteration: 101
+Error: 0.06135454494025794
+Eigenvector:
+[[-0.17514929]
+ [ 0.        ]
+ [-0.98454189]]
+Eigenvalue: [[ 98.06135454]]
+
+Iteration: 102
+Error: 0.05935355454846558
+Eigenvector:
+[[-0.17226949]
+ [ 0.        ]
+ [-0.98504986]]
+Eigenvalue: [[ 98.05935355]]
+
+Iteration: 103
+Error: 0.05741589082964538
+Eigenvector:
+[[-0.16943419]
+ [ 0.        ]
+ [-0.9855415 ]]
+Eigenvalue: [[ 98.05741589]]
+
+Iteration: 104
+Error: 0.05553967395933057
+Eigenvector:
+[[-0.16664284]
+ [ 0.        ]
+ [-0.98601732]]
+Eigenvalue: [[ 98.05553967]]
+
+Iteration: 105
+Error: 0.05372307189605863
+Eigenvector:
+[[-0.16389489]
+ [ 0.        ]
+ [-0.98647781]]
+Eigenvalue: [[ 98.05372307]]
+
+Iteration: 106
+Error: 0.05196429969667804
+Eigenvector:
+[[-0.16118979]
+ [ 0.        ]
+ [-0.98692343]]
+Eigenvalue: [[ 98.0519643]]
+
+Iteration: 107
+Error: 0.050261618803304486
+Eigenvector:
+[[-0.158527  ]
+ [ 0.        ]
+ [-0.98735464]]
+Eigenvalue: [[ 98.05026162]]
+
+Iteration: 108
+Error: 0.04861333630434217
+Eigenvector:
+[[-0.15590596]
+ [ 0.        ]
+ [-0.9877719 ]]
+Eigenvalue: [[ 98.04861334]]

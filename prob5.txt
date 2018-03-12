@@ -1,0 +1,41 @@
+Problem 5
+
+RESULTS
+
+Iteration: 2
+Tolerance: 0.005
+Error: 0.0
+Eigenvector:
+[[ 0.]
+ [ 0.]
+ [ 1.]]
+Eigenvalue: 4.0
+
+Maximum Iterations exceeded
+
+
+ACTUAL EIGENVALUES AND EIGENVECTORS
+
+(array([ 7.5+2.39791576j,  7.5-2.39791576j,  4.0+0.j        ]), 
+matrix([[ 0.77459667+0.j        ,  0.77459667-0.j        ,  0.00000000+0.j        ],
+        [-0.12909944+0.61913919j, -0.12909944-0.61913919j,  0.00000000+0.j        ],
+        [ 0.00000000+0.j        ,  0.00000000-0.j        ,  1.00000000+0.j        ]]))
+
+
+EIGENVALUE 1
+
+Iteration: 1
+Error: 9.0
+Eigenvector:
+[[ 0.]
+ [ 0.]
+ [ 1.]]
+Eigenvalue: 40.0
+
+Iteration: 2
+Error: 0.0
+Eigenvector:
+[[ 0.]
+ [ 0.]
+ [ 1.]]
+Eigenvalue: 4.0
